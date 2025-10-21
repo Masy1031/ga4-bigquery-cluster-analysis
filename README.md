@@ -24,7 +24,8 @@ Google 提供のサンプルデータセット
 
 ---
 
-## 📁 ディレクトリ構成
+<details>
+<summary>📁 ディレクトリ構成を開く</summary>
 ga4-bigquery-cluster-analysis/
 ├── README.md
 ├── sql/
@@ -34,6 +35,8 @@ ga4-bigquery-cluster-analysis/
 │   └── cluster_analysis.py
 └── images/
     └── looker_dashboard.png
+
+</details>
 
 
 ---
