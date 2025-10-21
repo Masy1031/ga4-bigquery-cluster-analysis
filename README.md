@@ -28,12 +28,12 @@ Google 提供のサンプルデータセット
 ga4-bigquery-cluster-analysis/
 ├── README.md
 ├── sql/
-│ ├── session_trend.sql
-│ └── traffic_source.sql
+│   ├── session_trend.sql
+│   └── traffic_source.sql
 ├── python/
-│ └── cluster_analysis.py
+│   └── cluster_analysis.py
 └── images/
-└── looker_dashboard.png
+    └── looker_dashboard.png
 
 
 ---
@@ -48,7 +48,8 @@ ga4-bigquery-cluster-analysis/
 3. **Looker Studioで可視化**
    - BigQueryの結果を直接接続してダッシュボード化
 
-![looker_dashboard](./images/looker_dashboard.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1303394/127927b4-da39-4b63-97f5-e9d0a953e372.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1303394/d175e5a5-1bb2-425d-bb0a-d8fcf7756d2d.png)
 
 ---
 
