@@ -24,20 +24,18 @@ Google 提供のサンプルデータセット
 
 ---
 
-<details>
-<summary>📁 ディレクトリ構成を開く</summary>
+## 📁 ディレクトリ構成
+`````
 ga4-bigquery-cluster-analysis/
 ├── README.md
 ├── sql/
-│   ├── session_trend.sql
-│   └── traffic_source.sql
+│ ├── session_trend.sql
+│ └── traffic_source.sql
 ├── python/
-│   └── cluster_analysis.py
+│ └── cluster_analysis.py
 └── images/
-    └── looker_dashboard.png
-
-</details>
-
+└── looker_dashboard.png
+`````
 
 ---
 
